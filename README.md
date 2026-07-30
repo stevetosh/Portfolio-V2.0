@@ -4,9 +4,7 @@ Welcome to my professional portfolio. I’m **Stephen Omotosho**, a Customer Sup
 
 **[![Live Portfolio](https://shields.io)](https://stephenomotosho.netlify.app/)**
 
-<a href="https://stephenomotosho.netlify.app/" target="_blank">
-  <img src="https://shields.io🚀-blue?style=for-the-badge" alt="Live Portfolio Button" height="40">
-</a>
+[▶️ View Live Project](https://stephenomotosho.netlify.app/)
 
 ![Stephen Omotosho](img/hero_bg.jpg)
 
